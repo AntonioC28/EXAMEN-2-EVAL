@@ -8,11 +8,14 @@ body{
 
 div.bit{
   text-align: end;
+      /* Aqui iria un position reletive pero no recuerdo como se hacia */
+
 }
 
 div.eth{
     background-color: aliceblue;
     text-align: center;
+    /* Aqui iria un position reletive pero no recuerdo como se hacia */
 }
 
 p{
@@ -20,6 +23,6 @@ p{
     text-align: center;
 }
 
-input.color{
+a.color{
     color: red;
 }
